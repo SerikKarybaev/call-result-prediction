@@ -52,7 +52,7 @@ This project builds a **binary classification model** to predict the probability
 
 ## Dataset
 
-**Source:** Synthetic data generated to mirror real-world collection call patterns (see [synthetic-call-data-generator](../synthetic-call-data-generator))
+**Source:** Synthetic data generated to mirror real-world collection call patterns (see [synthetic-call-data-generator](https://github.com/SerikKarybaev/synthetic-call-data-generator.git))
 
 ### Dataset Statistics:
 - **Total Calls**: 79,876 unique calls
@@ -288,7 +288,7 @@ predictions = model.predict(X_new)
 Data Analyst | Aspiring Data Scientist
 
 - GitHub: [@SerikKarybaev](https://github.com/SerikKarybaev/)
-- LinkedIn: [Serik Karybaev](www.linkedin.com/in/serik-karybaev-29a544116)
+- LinkedIn: [Serik Karybaev](https://www.linkedin.com/in/serik-karybaev-29a544116)
 
 
 ---
