@@ -301,8 +301,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- Synthetic data generated using [synthetic-call-data-generator](../synthetic-call-data-generator)
+- Synthetic data generated using [synthetic-call-data-generator](https://github.com/SerikKarybaev/synthetic-call-data-generator.git)
 - Inspired by real-world challenges in debt collection analytics
 - Built as part of a Data Science portfolio project
 
----"# call-result-prediction" 
+
